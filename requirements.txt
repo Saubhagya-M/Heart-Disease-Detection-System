@@ -1,8 +1,0 @@
-python
-pandas
-numpy
-scikit-learm
-streamlit
-pickle
-matplotlib
-sqlite
