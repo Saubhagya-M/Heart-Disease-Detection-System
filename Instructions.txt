@@ -1,0 +1,63 @@
+Patient Profile 1: Acute Coronary Syndrome / Severe Ischemia
+
+Age: 62 yrs
+Gender: Male
+Chest pain: Typical angina
+Resting BP: 145 mmHg
+Cholesterol: 265 mg/dl
+FBS > 120 mg/dl: Yes
+Resting ECG: ST segment - T wave abnormalities
+Max. HR achieved: 112 bpm
+Exercise induced angina: Yes
+Old peak: 2.8 mm
+Slope: Down sloping
+No. of major vessels: 3
+Thalassemia: Reversible defect
+
+Patient Profile 2: Chronic Ischemic Heart Disease with Left Ventricular Strain
+
+Age: 58 yrs
+Gender: Female
+Chest pain: Atypical angina
+Resting BP: 160 mmHg
+Cholesterol: 290 mg/dl
+FBS > 120 mg/dl: No
+Resting ECG: Left Ventricular Hypertrophy
+Max. HR achieved: 135 bpm
+Exercise induced angina: Yes
+Old peak: 1.5 mm
+Slope: Flat
+No. of major vessels: 2
+Thalassemia: Reversible defect
+
+Patient Profile 3: Silent Ischemia in a Diabetic Patient
+
+Age: 67 yrs
+Gender: Male
+Chest pain: Asymptomatic
+Resting BP: 138 mmHg
+Cholesterol: 230 mg/dl
+FBS > 120 mg/dl: Yes
+Resting ECG: ST segment - T wave abnormalities
+Max. HR achieved: 120 bpm
+Exercise induced angina: No
+Old peak: 2.0 mm
+Slope: Flat
+No. of major vessels: 2
+Thalassemia: 6th defect
+
+Patient Profile 4: Microvascular Angina / Early Stage CAD
+
+Age: 49 yrs
+Gender: Female
+Chest pain: Non-angina
+Resting BP: 128 mmHg
+Cholesterol: 215 mg/dl
+FBS > 120 mg/dl: No
+Resting ECG: Normal
+Max. HR achieved: 155 bpm
+Exercise induced angina: Yes
+Old peak: 1.2 mm
+Slope: Up sloping
+No. of major vessels: 1
+Thalassemia: Normal
