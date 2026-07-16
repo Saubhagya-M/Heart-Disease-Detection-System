@@ -161,7 +161,7 @@ Random Forest was chosen because:
 ## Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/your-username/heart-disease-detection.git
+git clone https://github.com/Saubhagya-M/heart-disease-detection.git
 ```
 
 ## Step 2: Move into Project Folder
